@@ -1,0 +1,11 @@
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\bin\Debug\netcoreapp2.1\Compare the Triplets.deps.json
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\bin\Debug\netcoreapp2.1\Compare the Triplets.runtimeconfig.json
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\bin\Debug\netcoreapp2.1\Compare the Triplets.runtimeconfig.dev.json
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\bin\Debug\netcoreapp2.1\Compare the Triplets.dll
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\bin\Debug\netcoreapp2.1\Compare the Triplets.pdb
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\obj\Debug\netcoreapp2.1\Compare the Triplets.csprojAssemblyReference.cache
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\obj\Debug\netcoreapp2.1\Compare the Triplets.csproj.CoreCompileInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\obj\Debug\netcoreapp2.1\Compare the Triplets.AssemblyInfoInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\obj\Debug\netcoreapp2.1\Compare the Triplets.AssemblyInfo.cs
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\obj\Debug\netcoreapp2.1\Compare the Triplets.dll
+D:\Dev\viewless\Hackerrank\Practice\Compare the Triplets\obj\Debug\netcoreapp2.1\Compare the Triplets.pdb

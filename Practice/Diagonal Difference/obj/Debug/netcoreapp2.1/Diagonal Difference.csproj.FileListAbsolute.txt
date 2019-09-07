@@ -1,0 +1,11 @@
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.deps.json
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.runtimeconfig.json
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.runtimeconfig.dev.json
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.dll
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.pdb
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.csprojAssemblyReference.cache
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.AssemblyInfoInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.AssemblyInfo.cs
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.dll
+D:\Dev\viewless\Hackerrank\Practice\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.pdb

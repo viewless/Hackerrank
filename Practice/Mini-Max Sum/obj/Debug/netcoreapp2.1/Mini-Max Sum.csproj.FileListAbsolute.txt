@@ -1,0 +1,11 @@
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\bin\Debug\netcoreapp2.1\Mini-Max Sum.deps.json
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\bin\Debug\netcoreapp2.1\Mini-Max Sum.runtimeconfig.json
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\bin\Debug\netcoreapp2.1\Mini-Max Sum.runtimeconfig.dev.json
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\bin\Debug\netcoreapp2.1\Mini-Max Sum.dll
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\bin\Debug\netcoreapp2.1\Mini-Max Sum.pdb
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\obj\Debug\netcoreapp2.1\Mini-Max Sum.csprojAssemblyReference.cache
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\obj\Debug\netcoreapp2.1\Mini-Max Sum.csproj.CoreCompileInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\obj\Debug\netcoreapp2.1\Mini-Max Sum.AssemblyInfoInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\obj\Debug\netcoreapp2.1\Mini-Max Sum.AssemblyInfo.cs
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\obj\Debug\netcoreapp2.1\Mini-Max Sum.dll
+D:\Dev\viewless\Hackerrank\Practice\Mini-Max Sum\obj\Debug\netcoreapp2.1\Mini-Max Sum.pdb

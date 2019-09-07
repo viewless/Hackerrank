@@ -1,0 +1,11 @@
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\bin\Debug\netcoreapp2.1\Simple Array Sum.deps.json
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\bin\Debug\netcoreapp2.1\Simple Array Sum.runtimeconfig.json
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\bin\Debug\netcoreapp2.1\Simple Array Sum.runtimeconfig.dev.json
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\bin\Debug\netcoreapp2.1\Simple Array Sum.dll
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\bin\Debug\netcoreapp2.1\Simple Array Sum.pdb
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\obj\Debug\netcoreapp2.1\Simple Array Sum.csprojAssemblyReference.cache
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\obj\Debug\netcoreapp2.1\Simple Array Sum.csproj.CoreCompileInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\obj\Debug\netcoreapp2.1\Simple Array Sum.AssemblyInfoInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\obj\Debug\netcoreapp2.1\Simple Array Sum.AssemblyInfo.cs
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\obj\Debug\netcoreapp2.1\Simple Array Sum.dll
+D:\Dev\viewless\Hackerrank\Practice\Simple Array Sum\obj\Debug\netcoreapp2.1\Simple Array Sum.pdb

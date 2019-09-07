@@ -1,0 +1,10 @@
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\bin\Debug\netcoreapp2.1\A Very Big Sum.deps.json
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\bin\Debug\netcoreapp2.1\A Very Big Sum.runtimeconfig.json
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\bin\Debug\netcoreapp2.1\A Very Big Sum.runtimeconfig.dev.json
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\bin\Debug\netcoreapp2.1\A Very Big Sum.dll
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\bin\Debug\netcoreapp2.1\A Very Big Sum.pdb
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\obj\Debug\netcoreapp2.1\A Very Big Sum.csproj.CoreCompileInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\obj\Debug\netcoreapp2.1\A Very Big Sum.AssemblyInfoInputs.cache
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\obj\Debug\netcoreapp2.1\A Very Big Sum.AssemblyInfo.cs
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\obj\Debug\netcoreapp2.1\A Very Big Sum.dll
+D:\Dev\viewless\Hackerrank\Practice\A Very Big Sum\obj\Debug\netcoreapp2.1\A Very Big Sum.pdb
